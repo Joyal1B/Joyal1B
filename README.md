@@ -58,7 +58,7 @@
 | Repo / Projet | Pitch | Tech |
 |---|---|---|
 | [**echo-agent-starter**](https://github.com/Joyal1B/echo-agent-starter) `MIT` | Agent WhatsApp auto-hébergé qui écrit **comme toi** — import de style, RAG, mémoire, contrôle Telegram, Docker. 0 dépendance runtime. | Node.js |
-| **design-skills** | Bibliothèque de skills & design systems partagée entre agents (Claude Code · Codex · Hermes) — livrables design cadrés, zéro plateforme. | Markdown · HTML |
+| [**design-skills**](https://github.com/Joyal1B/design-skills) | Bibliothèque de skills & design systems partagée entre agents (Claude Code · Codex · Hermes) — livrables design cadrés, zéro plateforme. | Markdown · HTML |
 | **clipping-factory** | Usine à clips CPM : transcription → détection → **reframe YOLO 9:16 automatique**. | Python · YOLO11 · ffmpeg |
 | **Fluent** | Coach d'anglais temps réel — OpenAI Realtime **WebRTC** + répétition espacée (SRS). | JS · WebRTC |
 | **Crypt Runner** | Jeu d'arcade dungeon-runner, 100% vanilla, déployé Vercel. | JS · Canvas |
