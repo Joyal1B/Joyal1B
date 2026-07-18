@@ -40,7 +40,7 @@
 
 ## ⚡ Systèmes en production
 
-> La preuve, ce ne sont pas des étoiles. Ce sont des sites qui encaissent des commandes réelles.
+> La preuve, ce ne sont pas des étoiles. Ce sont des sites live, en production.
 
 | Projet | Ce que c'est | Stack | Live |
 |---|---|---|---|
@@ -50,6 +50,10 @@
 | **Camelia & Ses Fleurs** | Boutique fleuriste + GEO local | Shopify · Liquid | [cameliaetsesfleurs.com](https://cameliaetsesfleurs.com) |
 | **MOSL Habitat** | Artisan couvreur + machine à appels | Statique · Google Ads call-only | [moslhabitat.fr](https://moslhabitat.fr) |
 | **Pizza Roma 78** | Pizzeria — one-page premium | HTML/CSS/JS · DA feu de bois | [pizzaroma78.com](https://pizzaroma78.com) |
+| **ORYZO** | Produit physique réinventé pour l'ère IA — vitrine 3D interactive | Astro · Three.js (WebGL) · Rive · Cloudflare | [oryzo.ai](https://oryzo.ai) |
+| **Bijou Wine** | Vigneron du Sud de la France — vins primés (Languedoc/Provence) | WordPress · WooCommerce · Swiper · Performance Lab | [bijouwine.com](https://bijouwine.com) |
+| **WatchHouse** | Coffee house & torréfacteur (Londres/NY) + e-shop café | Shopify · GSAP · Swiper · Klaviyo | [watchhouse.com](https://watchhouse.com/en-us) |
+| **Querdenken — Longlead** | Reportage long-form immersif — scrollytelling | WordPress headless · Netlify · Canvas | [experience](https://querdenken.longlead.com/experience/) |
 
 <br/>
 
@@ -66,18 +70,9 @@
 
 ## 🔭 Veille & inspirations
 
-**Les courants que je traque** — ceux qui cassent les codes au lieu de les suivre :
+Les courants que je traque — ceux qui cassent les codes au lieu de les suivre :
 
 `origami · kawaii` ✦ `néo-brutalisme` ✦ `anti-design` ✦ `obsidian` (dark radical)
-
-**Les références que je dissèque** — je ne les ai pas codées, j'en démonte la stack pour voler le feu :
-
-| Référence | Genre | Stack décortiquée |
-|---|---|---|
-| [**oryzo.ai**](https://oryzo.ai) | 3D interactif · obsidian | `Astro` · `Three.js` (WebGL) · `Rive` (anim vectorielle temps réel) · Cloudflare |
-| [**bijouwine.com**](https://bijouwine.com) | e-commerce éditorial | `WordPress` · `WooCommerce` · `Swiper` · Performance Lab (WebP · speculation-rules · image-prioritizer) · GA4 · Cloudflare |
-| [**watchhouse.com**](https://watchhouse.com/en-us) | retail premium animé | `Shopify` (thème custom) · `GSAP` · `Swiper` · Klaviyo · GA4 · Cloudflare |
-| [**querdenken · Longlead**](https://querdenken.longlead.com/experience/) | scrollytelling immersif | `WordPress` headless · `Netlify` · Canvas / storytelling animé · GA4 |
 
 <br/>
 
