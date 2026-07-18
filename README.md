@@ -46,7 +46,7 @@
 |---|---|---|---|
 | **NullAgency.on** | L'agence — automatisation, IA & web sur-mesure | Design system maison | [nullagency.online](https://nullagency.online) |
 | **Maison H Luxury** | E-commerce art de la table haut de gamme | WordPress · WooCommerce · Alma | [maison-h-luxury.fr](https://maison-h-luxury.fr) |
-| **Kapital Max** | E-commerce équipement pro | WordPress · WooCommerce | [kapitalmax.fr](https://kapitalmax.fr) |
+| **Kapital Max** | Plateforme e-learning — formations en ligne | WordPress · WooCommerce | [kapitalmax.fr](https://kapitalmax.fr) |
 | **Camelia & Ses Fleurs** | Boutique fleuriste + GEO local | Shopify · Liquid | [cameliaetsesfleurs.com](https://cameliaetsesfleurs.com) |
 | **MOSL Habitat** | Artisan couvreur + machine à appels | Statique · Google Ads call-only | [moslhabitat.fr](https://moslhabitat.fr) |
 | **Pizza Roma 78** | Pizzeria — one-page premium | HTML/CSS/JS · DA feu de bois | [pizzaroma78.com](https://pizzaroma78.com) |
@@ -66,8 +66,18 @@
 
 ## 🔭 Veille & inspirations
 
-Le niveau d'exigence que je vise — je ne les ai pas codés, je m'en nourris :
-[oryzo.ai](https://oryzo.ai) · [watchhouse.com](https://watchhouse.com) · [querdenken.longlead](https://querdenken.longlead.com/experience/)
+**Les courants que je traque** — ceux qui cassent les codes au lieu de les suivre :
+
+`origami · kawaii` ✦ `néo-brutalisme` ✦ `anti-design` ✦ `obsidian` (dark radical)
+
+**Les références que je dissèque** — je ne les ai pas codées, j'en démonte la stack pour voler le feu :
+
+| Référence | Genre | Stack décortiquée |
+|---|---|---|
+| [**oryzo.ai**](https://oryzo.ai) | 3D interactif · obsidian | `Astro` · `Three.js` (WebGL) · `Rive` (anim vectorielle temps réel) · Cloudflare |
+| [**bijouwine.com**](https://bijouwine.com) | e-commerce éditorial | `WordPress` · `WooCommerce` · `Swiper` · Performance Lab (WebP · speculation-rules · image-prioritizer) · GA4 · Cloudflare |
+| [**watchhouse.com**](https://watchhouse.com/en-us) | retail premium animé | `Shopify` (thème custom) · `GSAP` · `Swiper` · Klaviyo · GA4 · Cloudflare |
+| [**querdenken · Longlead**](https://querdenken.longlead.com/experience/) | scrollytelling immersif | `WordPress` headless · `Netlify` · Canvas / storytelling animé · GA4 |
 
 <br/>
 
