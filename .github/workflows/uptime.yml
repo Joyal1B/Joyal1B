@@ -1,0 +1,48 @@
+name: uptime
+
+# Probes the production sites every hour and publishes the card to the
+# `status` branch (single commit, force-pushed, so main history stays clean).
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['uptime/**', '.github/workflows/uptime.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: uptime
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Load previous history
+        run: |
+          if git fetch --depth=1 origin status; then
+            git show origin/status:uptime.json > "$RUNNER_TEMP/prev.json"
+          else
+            echo '{"samples":[]}' > "$RUNNER_TEMP/prev.json"
+          fi
+      - name: Probe and render
+        run: node uptime/probe.mjs "$RUNNER_TEMP/prev.json" "$RUNNER_TEMP/out"
+      - name: Publish to the status branch
+        working-directory: ${{ runner.temp }}/out
+        run: |
+          git init -q -b status
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add uptime.json uptime.svg
+          git commit -qm "uptime $(date -u +%FT%TZ)"
+          git push -qf "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" status
+        env:
+          GITHUB_TOKEN: ${{ github.token }}

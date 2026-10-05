@@ -1,0 +1,8 @@
+[
+  { "id": "nullagency", "name": "NullAgency.on", "kind": "agence · design system maison", "url": "https://nullagency.online" },
+  { "id": "maisonh", "name": "Maison H Luxury", "kind": "e-commerce · WooCommerce", "url": "https://maison-h-luxury.fr" },
+  { "id": "kapitalmax", "name": "Kapital Max", "kind": "e-learning · WooCommerce", "url": "https://kapitalmax.fr" },
+  { "id": "camelia", "name": "Camelia & Ses Fleurs", "kind": "fleuriste · Shopify", "url": "https://cameliaetsesfleurs.com" },
+  { "id": "mosl", "name": "MOSL Habitat", "kind": "artisan · site statique", "url": "https://moslhabitat.fr" },
+  { "id": "pizzaroma", "name": "Pizza Roma 78", "kind": "restaurant · HTML/CSS/JS", "url": "https://pizzaroma78.com" }
+]

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="320" viewBox="0 0 420 320" role="img" aria-label="ÉQUIPES : Une meute ouverte aux renforts.">
+<style>.g{animation:g 3.6s ease-in-out infinite}@keyframes g{0%,100%{opacity:.35}50%{opacity:.8}}@media (prefers-reduced-motion:reduce){.g{animation:none}}</style>
+<defs><linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></linearGradient>
+<radialGradient id="h" cx="1" cy="0" r="1"><stop offset="0" stop-color="#34d399" stop-opacity=".22"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient></defs>
+<rect width="420" height="320" rx="22" fill="#0a0e16"/>
+<rect width="420" height="320" rx="22" fill="url(#h)" class="g"/>
+<rect x="1" y="1" width="418" height="318" rx="21" fill="none" stroke="#34d399" stroke-opacity=".45" stroke-width="2"/>
+<rect x="26" y="0" width="200" height="3" fill="url(#t)"/>
+<text x="26" y="52" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="700" letter-spacing="3.5" fill="#34d399">ÉQUIPES</text>
+<text x="26" y="96" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="800" letter-spacing="-.5" fill="#f4f7fc">Une meute ouverte</text>
+<text x="26" y="130" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="800" letter-spacing="-.5" fill="#34d399">aux renforts.</text>
+<circle cx="34" cy="176" r="3.5" fill="#34d399"/><text x="48" y="181" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15.5" fill="#c3d0e2">Starters MIT : agents, clips, design</text><circle cx="34" cy="206" r="3.5" fill="#34d399"/><text x="48" y="211" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15.5" fill="#c3d0e2">Skills partagés Claude · Codex · Hermes</text><circle cx="34" cy="236" r="3.5" fill="#34d399"/><text x="48" y="241" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15.5" fill="#c3d0e2">Issues et pull requests bienvenues</text>
+<line x1="26" y1="262" x2="394" y2="262" stroke="#1a2333" stroke-width="1.5"/>
+<text x="26" y="292" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#34d399">→ echo-agent-starter</text>
+</svg>
