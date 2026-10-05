@@ -59,8 +59,11 @@
 </p>
 
 **IA & agents** : Claude (Anthropic) · Codex · Gemini · cascade LLM avec bascule · RAG · Jev (TypeSafe) · OpenAI Realtime
+
 **Messagerie & automatisation** : Baileys (WhatsApp) · bots Telegram · n8n · MCP
+
 **Vidéo & ML** : YOLO (ultralytics) · ByteTrack · faster-whisper · ffmpeg
+
 **Commerce & web** : WooCommerce · Shopify · three.js · GSAP · SEO / GEO · Google Ads
 
 ## 🔭 Veille
