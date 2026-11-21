@@ -37,10 +37,6 @@
 | **Camelia & Ses Fleurs** | Boutique fleuriste + GEO local | Shopify · Liquid | [cameliaetsesfleurs.com](https://cameliaetsesfleurs.com) |
 | **MOSL Habitat** | Artisan couvreur + machine à appels | Statique · Google Ads call-only | [moslhabitat.fr](https://moslhabitat.fr) |
 | **Pizza Roma 78** | Pizzeria, one-page premium | HTML/CSS/JS · DA feu de bois | [pizzaroma78.com](https://pizzaroma78.com) |
-| **ORYZO** | Produit physique réinventé pour l'ère IA, vitrine 3D interactive | Astro · Three.js (WebGL) · Rive · Cloudflare | [oryzo.ai](https://oryzo.ai) |
-| **Bijou Wine** | Vigneron du Sud de la France, vins primés (Languedoc/Provence) | WordPress · WooCommerce · Swiper · Performance Lab | [bijouwine.com](https://bijouwine.com) |
-| **WatchHouse** | Coffee house & torréfacteur (Londres/NY) + e-shop café | Shopify · GSAP · Swiper · Klaviyo | [watchhouse.com](https://watchhouse.com/en-us) |
-| **Querdenken · Longlead** | Reportage long-form immersif, scrollytelling | WordPress headless · Netlify · Canvas | [experience](https://querdenken.longlead.com/experience/) |
 
 ## 🛠️ Open source & labs
 
@@ -50,7 +46,6 @@
 | [**echo-agent-starter**](https://github.com/Joyal1B/echo-agent-starter) `MIT` | Agent WhatsApp auto-hébergé qui écrit **comme toi** : import de style, RAG, mémoire, contrôle Telegram, Docker. | Node.js |
 | [**clipping-factory**](https://github.com/Joyal1B/clipping-factory) `MIT` | Vidéo longue → shorts 9:16 en auto : transcription, sélection, **reframe YOLO + ByteTrack**, sous-titres karaoké. | Python · YOLO11 · ffmpeg |
 | [**fluent**](https://github.com/Joyal1B/fluent) `MIT` | Coach d'anglais temps réel : OpenAI Realtime en **WebRTC** + répétition espacée. | JS · WebRTC |
-| [**design-skills**](https://github.com/Joyal1B/design-skills) `Apache-2.0` | Bibliothèque de skills et de design systems partagée entre agents (Claude Code · Codex · Hermes). | Markdown · HTML |
 
 ## 🐺 L'arsenal
 
@@ -71,5 +66,14 @@
 Les courants que je traque, ceux qui cassent les codes au lieu de les suivre :
 
 `origami · kawaii` ✦ `néo-brutalisme` ✦ `anti-design` ✦ `obsidian` (dark radical)
+
+Les sites que je dissèque pour leur technique (je ne les ai pas réalisés) :
+
+| Site | Ce qui m'intéresse | Stack | Lien |
+|---|---|---|---|
+| **ORYZO** | Produit physique réinventé pour l'ère IA, vitrine 3D interactive | Astro · Three.js (WebGL) · Rive · Cloudflare | [oryzo.ai](https://oryzo.ai) |
+| **Bijou Wine** | Vigneron du Sud de la France, vins primés (Languedoc/Provence) | WordPress · WooCommerce · Swiper · Performance Lab | [bijouwine.com](https://bijouwine.com) |
+| **WatchHouse** | Coffee house & torréfacteur (Londres/NY) + e-shop café | Shopify · GSAP · Swiper · Klaviyo | [watchhouse.com](https://watchhouse.com/en-us) |
+| **Querdenken · Longlead** | Reportage long-form immersif, scrollytelling | WordPress headless · Netlify · Canvas | [experience](https://querdenken.longlead.com/experience/) |
 
 <p align="center"><sub><b>NULLAGENCY.ON</b> · ONE HUMAN · A PACK OF AGENTS</sub></p>
