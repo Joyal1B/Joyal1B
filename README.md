@@ -1,6 +1,6 @@
 <!-- Joyal1B · Sam The SpaceJoker · NullAgency.on — nuit #0a0e16, cyan #36e0ff, violet #8b5cf6 -->
 
-<a href="https://nullagency.online"><img src="https://raw.githubusercontent.com/Joyal1B/Joyal1B/main/assets/hero.svg" width="100%" alt="Sam The SpaceJoker, Oussama Labhih, fondateur de NullAgency.on. Un humain, une meute d'agents IA."/></a>
+<a href="https://nullagency.online"><img src="https://raw.githubusercontent.com/Joyal1B/Joyal1B/main/assets/hero.svg" width="100%" alt="Sam The SpaceJoker, Mr Oussama, fondateur de NullAgency.on. Un humain, une meute d'agents IA."/></a>
 
 <p align="center">
   <a href="https://nullagency.online"><img src="https://img.shields.io/badge/nullagency.online-0a0e16?style=for-the-badge&logo=safari&logoColor=36e0ff" alt="site"/></a>
